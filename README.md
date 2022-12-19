@@ -3,7 +3,7 @@
 Part 1
 
 The goal is to estimate the house price based on various house features using machine learning algorithms.
-Random forest regression model performed better when compared to other models as the error was less.
+R-Square score for Random Forest Regression model is higher i.e. close to 1 when compared to linear regression and decision tree regression models. Hence, Random forest regression model can be recommended as the final prediction model.
 
 Part 2
 
